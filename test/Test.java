@@ -1,5 +1,7 @@
 package test;
 
+import oops.Aeroplane;
+
 public class Test {
     public static void main(String[] args) {
         // // Node n = new Node();
@@ -30,7 +32,7 @@ public class Test {
         // }
 
         Integer x = 10;
-        int y=10;
+        int y = 10;
 
         Animal h = new Herbivorous();
         h.noOfLegs = 4;
@@ -41,6 +43,7 @@ public class Test {
 
         System.out.println(h.toString());
         System.out.println(c.toString());
+        Aeroplane a = new Aeroplane();
     }
 
 }

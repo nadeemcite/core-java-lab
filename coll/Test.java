@@ -2,6 +2,10 @@ package coll;
 
 import java.util.*;
 
+/*
+    Collection Framework Diagram
+    https://www.ict.social/images/1/java/collections/java_collection_api_diagram.svg
+*/
 public class Test {
     public static void main(String[] args) {
         // ArrayList<Integer> intList = new ArrayList<Integer>();
